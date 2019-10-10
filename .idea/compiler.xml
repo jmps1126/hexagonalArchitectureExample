@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="arquitectura.api-rest.main" target="1.8" />
+      <module name="arquitectura.api-rest.test" target="1.8" />
+      <module name="arquitectura.arquitectura-api-rest.main" target="1.8" />
+      <module name="arquitectura.arquitectura-api-rest.test" target="1.8" />
+      <module name="arquitectura.arquitectura-jpa-repository-common.main" target="1.8" />
+      <module name="arquitectura.arquitectura-jpa-repository-common.test" target="1.8" />
+      <module name="arquitectura.arquitectura-jpa-repository.main" target="1.8" />
+      <module name="arquitectura.arquitectura-jpa-repository.test" target="1.8" />
+      <module name="arquitectura.arquitectura-model.main" target="1.8" />
+      <module name="arquitectura.arquitectura-model.test" target="1.8" />
+      <module name="arquitectura.arquitectura-use-case.main" target="1.8" />
+      <module name="arquitectura.arquitectura-use-case.test" target="1.8" />
+      <module name="arquitectura.jpa-repository-common.main" target="1.8" />
+      <module name="arquitectura.jpa-repository-common.test" target="1.8" />
+      <module name="arquitectura.jpa-repository.main" target="1.8" />
+      <module name="arquitectura.jpa-repository.test" target="1.8" />
+      <module name="arquitectura.main" target="1.8" />
+      <module name="arquitectura.model.main" target="1.8" />
+      <module name="arquitectura.model.test" target="1.8" />
+      <module name="arquitectura.test" target="1.8" />
+      <module name="arquitectura.use-case.main" target="1.8" />
+      <module name="arquitectura.use-case.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
